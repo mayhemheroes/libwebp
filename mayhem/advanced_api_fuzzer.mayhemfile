@@ -1,0 +1,4 @@
+project: PROJECT
+target: advanced_api_fuzzer
+cmds:
+- cmd: /out/advanced_api_fuzzer
